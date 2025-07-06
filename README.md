@@ -65,7 +65,16 @@ php-image-stack/
 
 ### 📸 Screenshots
 
-> _Coming soon!_ Add screenshots of your UI here to showcase the layout and features.
+
+
+#### 🪟 Modal Preview
+![Modal Preview](https://github.com/davidfrancisasuah/php-image-stack/blob/master/index1.jpeg)
+![Modal Preview](https://github.com/davidfrancisasuah/php-image-stack/blob/master/index2.jpeg)
+![Modal Preview](https://github.com/davidfrancisasuah/php-image-stack/blob/master/index3.jpeg)
+![Modal Preview](https://github.com/davidfrancisasuah/php-image-stack/blob/master/index4.jpeg)
+![Modal Preview](https://github.com/davidfrancisasuah/php-image-stack/blob/master/index5.jpeg)
+![Modal Preview](https://github.com/davidfrancisasuah/php-image-stack/blob/master/index6.jpeg)
+
 
 ---
 
