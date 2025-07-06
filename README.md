@@ -1,7 +1,3 @@
-Absolutely, David! Here's a professional and informative README for your GitHub project [php-image-stack](https://github.com/davidfrancisasuah/php-image-stack):
-
----
-
 ## 📸 Simple Image Stack
 
 A lightweight PHP web application that fetches and displays high-quality images using the Pexels API. Users can search for images, preview them in a modal, and download them directly. Built with PHP, Bootstrap, and JavaScript.
